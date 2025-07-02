@@ -1,0 +1,2 @@
+rootProject.name = 'DashboardApp'
+include ':app'
